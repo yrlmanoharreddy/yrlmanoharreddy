@@ -1,8 +1,8 @@
-## Laxmi Manohar Meda | Full-Stack Software Developer & AI Engineer
+## Laxmi Manohar Meda | Java Full Stack Developer with AI
 
 I'm a full-stack software developer and AI engineer with 6+ years building production software. I design and ship backend systems with Java/Spring Boot, frontends with React/TypeScript, and AI-powered features with Python — RAG pipelines, LangChain/LangGraph agents, and MCP tooling.
 
-I'm open to roles as a Software Engineer, Full-Stack Developer, Java Developer, or AI Engineer.
+I'm open to roles as a Java Full Stack Developer, Software Engineer, or AI Engineer.
 
 ## What I do
 
